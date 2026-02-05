@@ -46,7 +46,7 @@ EXAMPLE 1: CAR (OBJECT)
 * Author (J.K. Rowling, Harper Lee)
 * Pages (400, 281)
 * Genre (Fantasy, Fiction)
-* Would you like me to extract text from another image?
+  
 
 
 
